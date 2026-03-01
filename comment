@@ -1,0 +1,9 @@
+trace: 
+a.claude-sdk
+1. 进程启动：SDK 通过 pathToClaudeCodeExecutable 启动 Claude CLI 子进程
+b.键入过程当中的slash command/skill也可以作为slash
+c.其实感觉也就前端的工作 界面操作 然后显示 然后调用
+
+
+question: 
+a.claude的和本地的claude接口 为什么能够实现配置问题的同步, 以及sdk当中使用的claude,进程模型有什么区别 skd提供的是终端 还是完整的内部,只是通过配置文件来保持一致性
